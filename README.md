@@ -1,1 +1,1 @@
-# AI-ML_projects
+# AI adn ML projects 
